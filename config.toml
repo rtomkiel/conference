@@ -2,3 +2,8 @@ baseURL = "http://example.org/"
 languageCode = "pt-br"
 title = "My New Hugo Site"
 theme = "conference"
+
+[params]
+    evento = "FOSS DAY"
+    logourl = "#"
+

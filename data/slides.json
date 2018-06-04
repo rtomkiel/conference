@@ -1,0 +1,20 @@
+{
+    "slides":{
+    "data":[
+       {
+        "titulo": "Evento de Bento Gonçalves<br>Acontece",
+        "img": "assets/img/slider/bg-2.jpg",
+        "blink": "https://fossday.org",
+        "btext":"Saiba Mais",
+        "active": "active"
+        },
+        {
+        "titulo": "Evento de Lajeado",
+        "img": "assets/img/slider/bg-2.jpg",
+        "blink": "https://fossday.org",
+        "btext":"Saiba Mais",
+        "active": ""
+        }
+    
+    ]}
+}
